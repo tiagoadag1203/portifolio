@@ -1,0 +1,50 @@
+@media only screen and (min-device-width: 903px){
+    #navbar{
+        position: fixed;
+        width: 95%;
+    }
+    
+    .logonav{
+        display: none;
+    }
+
+    .logonav2{
+        display: list-item;
+        width: 6rem;
+    }
+
+    /*main*/
+
+    #imgtiago{
+        width: 50%;
+    }
+
+    .secao_cards{
+        flex-direction: row;
+    }
+
+    .card img{
+        width: 12rem;
+    }
+
+    .card p{
+        max-width: 12rem;
+      }
+
+
+    
+    .card2{
+        flex-direction: row;
+    }
+
+    .curso{
+        flex-direction: row;
+        align-items: center;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .txt_cursos{
+        padding: 1rem;
+    }
+}

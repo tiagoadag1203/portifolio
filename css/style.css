@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+p, li, span{
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.bloco{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 3rem;
+    margin-top: 3rem;
+}
